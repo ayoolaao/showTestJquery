@@ -4,3 +4,19 @@ div.button-group {
     padding: 16px;
     width: fit-content;
 }
+
+#button-group__one {
+    background: antiquewhite;
+}
+
+#button-group__two {
+    background: cornflowerblue;
+}
+
+#button-group__one {
+    display: none;
+}
+
+/*#submit__one {*/
+/*    display: none;*/
+/*}*/
