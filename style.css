@@ -1,0 +1,6 @@
+div.button-group {
+    border: 1px solid black;
+    margin: 16px;
+    padding: 16px;
+    width: fit-content;
+}
