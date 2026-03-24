@@ -4,12 +4,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Testing show() on jQuery</title>
     <link rel="stylesheet" href="style.css" />
+    <script src="jquery-1.3.2.js" defer></script>
     <script src="index.js" defer></script>
 </head>
 <body>
     <div>
         <div id="button-group__one" class="button-group">
-            <button id="submit__one" class="btn">Submit</button>
+            <button id="submit__one" class="btn" style="display: none">Submit</button>
             <button id="clear__one" class="btn">Clear</button>
             <button id="reset__one" class="btn">Reset</button>
         </div>
@@ -19,6 +20,8 @@
             <button id="clear__two" class="btn">Clear</button>
             <button id="reset__two" class="btn">Reset</button>
         </div>
+        
+        <button id="show-hide">Show</button>
     </div>
 
 </body>
