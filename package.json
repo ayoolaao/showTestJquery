@@ -1,0 +1,19 @@
+{
+  "name": "showtestjquery",
+  "version": "1.0.0",
+  "description": "testing jQuery versions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayoolaao/showTestJquery.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayoolaao/showTestJquery/issues"
+  },
+  "homepage": "https://github.com/ayoolaao/showTestJquery#readme"
+}
